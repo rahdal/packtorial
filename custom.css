@@ -1,14 +1,49 @@
 *{
-    background-color: #1A1A1D
+    background-color: #1A1A1D;
+}
+html{
+    height: 95%;
 }
 body{
-    background-color: #1A1A1D
+    background-color: #1A1A1D;
+    height: 90%;
 }
 h1{
-    color: beige
+    color: beige;
+}
+h2{
+    color: beige;
+    padding-top: 5px;
+}
+h3{
+    color: beige;
 }
 p{
-    color: beige
+    color: beige;
+   
 
 }
 
+.hero-unit{
+    height: 95%;
+}
+.about{
+    height: 95%;
+}
+.circle{
+    border-radius: 50%;
+}
+.img-border{
+    border-color: deepskyblue;
+    border-width: 6px;
+    border-style: outset;
+    border-radius: 50%;
+}
+#lol{
+    background: rgb(26,26,29);
+    background: linear-gradient(28deg, rgba(26,26,29,1) 0%, rgba(26,26,29,1) 63%, rgba(131,172,240,1) 100%);
+
+}
+.grad{
+    background-color: transparent;
+}
