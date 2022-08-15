@@ -1,7 +1,7 @@
 *{
     background-color: #e8ebea;
-    font-family: 'DM Sans', sans-serif;
-    font-family: 'Playfair Display', serif;
+    font-family: 'YouTube Sans', sans-serif;
+    font-family: 'YouTube Sans Dark', sans-serif;
 }
 html{
     height: 95%;
@@ -11,24 +11,24 @@ body{
     height: 90%;
 }
 h1{
-    color: #330066;
+    color: #004b96;
 }
 h2{
     color: beige;
     padding-top: 5px;
 }
 h3{
-    color: #330066;
+    color: #004b96;
 }
 p{
-    color: #330066;
+    color: #004b96;
 
 }
 li{
-    color: #330066;
+    color: #004b96;
 }
 a{
-    color: #330066;
+    color: #004b96;
 }
 .hro{
     padding-right: 5vw;
@@ -45,7 +45,7 @@ a{
     border-radius: 50%;
 }
 .img-border{
-    border-color: deepskyblue;
+    border-color: #004b96;
     border-width: 6px;
     border-style: outset;
     border-radius: 50%;
@@ -58,7 +58,7 @@ a{
 /* active (faded) */
 .nav-pills .nav-link {
     background-color: #e8ebea;
-    color: #330066;
+    color: #004b96;
 }
 #lol{
     background: rgb(26,26,29);
